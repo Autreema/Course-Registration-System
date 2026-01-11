@@ -7,7 +7,7 @@ Java | Spring Boot | MySQL | REST APIs | Postman
 The Course Registration System is a backend-focused web application developed using Java and Spring Boot to manage course enrollment processes efficiently. It provides RESTful APIs for handling students, courses, and registrations, with persistent data storage using MySQL. All APIs are tested and validated using Postman, ensuring reliability and correctness.
 
 This project demonstrates strong backend development skills, REST API design, database integration, and real-world application architecture.
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 🚀 Key Highlights
 
 RESTful API-based backend system
@@ -23,6 +23,7 @@ Clean layered architecture (Controller, Service, Repository)
 API testing and validation using Postman
 
 Exception handling and validation support
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🛠 Technologies Used
 Backend
@@ -66,6 +67,7 @@ The application follows a layered architecture:
 ├────────────────────┤
 │   MySQL Database   │
 └────────────────────┘
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📦 Features
 
@@ -80,6 +82,7 @@ View registered courses per student
 Prevent duplicate registrations
 
 Proper HTTP status codes and error handling
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📦 Installation & Setup
 Prerequisites
@@ -124,6 +127,7 @@ POST /api/enroll
 
 Get Student Courses
 GET /api/students/{id}/courses
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🧪 Testing
 
@@ -132,6 +136,7 @@ All endpoints tested using Postman
 Validated request/response payloads
 
 Checked error scenarios and edge cases
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🎯 Learning Outcomes
 
@@ -144,7 +149,7 @@ Backend application structure
 API testing and debugging
 
 Real-world CRUD operations
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 🔮 Future Enhancements
 
 JWT-based authentication
