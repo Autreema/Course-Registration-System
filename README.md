@@ -27,7 +27,7 @@ Exception handling and validation support
 🛠 Technologies Used
 Backend
 
-Java 17 (or Java 11/8)
+Java 21
 
 Spring Boot
 
